@@ -1,0 +1,12 @@
+# Backend dependencies
+express==latest
+mongoose==latest
+cors==latest
+dotenv==latest
+
+# Frontend dependencies
+react==latest
+react-dom==latest
+react-scripts==latest
+react-leaflet==latest
+leaflet==latest
